@@ -6,7 +6,6 @@ jinja2
 python-multipart
 openpyxl
 pandas
-sqlite3
 shapely
 subprocess
 ezdxf
