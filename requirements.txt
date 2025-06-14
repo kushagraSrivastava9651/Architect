@@ -6,7 +6,4 @@ jinja2
 python-multipart
 openpyxl
 pandas
-shapely
-subprocess
-ezdxf
-re
+ 
